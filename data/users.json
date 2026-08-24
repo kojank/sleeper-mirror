@@ -1,0 +1,168 @@
+[
+  {
+    "avatar": "de5f519c3ffa563a7212bec2856a81a7",
+    "display_name": "Bertike",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1393656255356088320",
+    "metadata": {
+      "allow_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/b05634bee633d9355f435aff756125df.jpg",
+      "mention_pn": "on",
+      "team_name": "Einhorn is Finkle"
+    },
+    "settings": null,
+    "user_id": "959089197053239296"
+  },
+  {
+    "avatar": "be4b831c7cc7af79c52c0b54bf6b58dd",
+    "display_name": "koja112",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1393656255356088320",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "mention_pn": "on",
+      "team_name": "Midwest Princesses"
+    },
+    "settings": null,
+    "user_id": "1126905667022843904"
+  },
+  {
+    "avatar": "3b0826c2250179b66891ed69c2147058",
+    "display_name": "d0m4",
+    "is_bot": false,
+    "is_owner": true,
+    "league_id": "1393656255356088320",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1132602844114231296"
+  },
+  {
+    "avatar": "578c6b253dd7b4bab45382e1af102204",
+    "display_name": "SpeedoEnergy",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1393656255356088320",
+    "metadata": {
+      "allow_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/228c7eaa3173d91c26642143c5d98957.jpg",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1389881005300531200"
+  },
+  {
+    "avatar": "47aea34529ae2d264019f47e3ac66266",
+    "display_name": "torokferencj",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1393656255356088320",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on",
+      "team_name": "FeFpack"
+    },
+    "settings": null,
+    "user_id": "1391088429667729408"
+  },
+  {
+    "avatar": "e0c562c4d0039eede8560da28337a802",
+    "display_name": "ko9669ok",
+    "is_bot": false,
+    "is_owner": true,
+    "league_id": "1393656255356088320",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on",
+      "team_name": "Seehoax"
+    },
+    "settings": null,
+    "user_id": "1394757430289637376"
+  },
+  {
+    "avatar": "578c6b253dd7b4bab45382e1af102204",
+    "display_name": "Bradysince199",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1393656255356088320",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1395085198487478272"
+  },
+  {
+    "avatar": "d55d1f7075eda01948318de4af616075",
+    "display_name": "SpudColts",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1393656255356088320",
+    "metadata": {
+      "allow_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/891d9ba3183e4024acd791e65b5430e5.jpg",
+      "mention_pn": "on",
+      "team_name": "SpudColts"
+    },
+    "settings": null,
+    "user_id": "1395457887416877056"
+  },
+  {
+    "avatar": "578c6b253dd7b4bab45382e1af102204",
+    "display_name": "cantbeatb3",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1393656255356088320",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1395459841849327616"
+  },
+  {
+    "avatar": "c987bca1e59bdbc576caf6639b882330",
+    "display_name": "DuplaD",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1393656255356088320",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1395480600147660800"
+  },
+  {
+    "avatar": "d9e878ea0273b1e9e1127b2bc4777c8f",
+    "display_name": "gicam",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1393656255356088320",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1395738716672135168"
+  },
+  {
+    "avatar": "7572250c2fb084c434fed0e82229e183",
+    "display_name": "marcellnemeth",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1393656255356088320",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on",
+      "team_name": "Tigers"
+    },
+    "settings": null,
+    "user_id": "1396873140545523712"
+  }
+]
