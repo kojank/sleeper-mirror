@@ -1,0 +1,32 @@
+name: Mirror Sleeper data
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'   # every 15 minutes; tighten if you want fresher live-score mirroring
+  workflow_dispatch: {}       # lets you trigger a manual refresh from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Fetch Sleeper data
+        env:
+          SLEEPER_LEAGUE_ID: ${{ vars.SLEEPER_LEAGUE_ID }}
+        run: python fetch_and_commit.py
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "sleeper-mirror-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Update Sleeper data mirror"
+          git push
