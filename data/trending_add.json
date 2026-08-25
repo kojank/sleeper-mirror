@@ -1,62 +1,62 @@
 [
   {
-    "count": 123984,
+    "count": 123840,
     "player_id": "8800"
   },
   {
-    "count": 70495,
+    "count": 69380,
     "player_id": "13602"
   },
   {
-    "count": 33360,
+    "count": 33488,
     "player_id": "4017"
   },
   {
-    "count": 27839,
+    "count": 27538,
     "player_id": "10218"
   },
   {
-    "count": 24543,
+    "count": 24336,
     "player_id": "13533"
   },
   {
-    "count": 23319,
+    "count": 23211,
     "player_id": "2505"
   },
   {
-    "count": 21015,
+    "count": 20934,
     "player_id": "11581"
   },
   {
-    "count": 20728,
+    "count": 20472,
     "player_id": "13296"
   },
   {
-    "count": 16768,
-    "player_id": "11610"
-  },
-  {
-    "count": 16720,
+    "count": 16752,
     "player_id": "13424"
   },
   {
-    "count": 15856,
+    "count": 16536,
+    "player_id": "11610"
+  },
+  {
+    "count": 15992,
     "player_id": "9504"
   },
   {
-    "count": 15759,
+    "count": 15696,
     "player_id": "8180"
   },
   {
-    "count": 15099,
+    "count": 15001,
     "player_id": "11834"
   },
   {
-    "count": 14562,
+    "count": 14568,
     "player_id": "JAX"
   },
   {
-    "count": 11232,
+    "count": 11064,
     "player_id": "12487"
   },
   {
@@ -64,39 +64,39 @@
     "player_id": "8161"
   },
   {
-    "count": 10674,
+    "count": 10632,
     "player_id": "13477"
   },
   {
-    "count": 10038,
-    "player_id": "11574"
-  },
-  {
-    "count": 9819,
+    "count": 9846,
     "player_id": "5995"
   },
   {
-    "count": 9709,
+    "count": 9695,
+    "player_id": "11574"
+  },
+  {
+    "count": 9674,
     "player_id": "13414"
   },
   {
-    "count": 9684,
+    "count": 9585,
     "player_id": "9511"
   },
   {
-    "count": 9420,
+    "count": 9252,
     "player_id": "13413"
   },
   {
-    "count": 8952,
+    "count": 8898,
     "player_id": "12711"
   },
   {
-    "count": 8659,
-    "player_id": "2078"
+    "count": 8760,
+    "player_id": "11589"
   },
   {
-    "count": 8631,
-    "player_id": "10219"
+    "count": 8638,
+    "player_id": "2078"
   }
 ]
