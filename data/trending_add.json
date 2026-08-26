@@ -1,102 +1,102 @@
 [
   {
-    "count": 120942,
+    "count": 119754,
     "player_id": "8800"
   },
   {
-    "count": 47330,
+    "count": 46770,
     "player_id": "13602"
   },
   {
-    "count": 37836,
+    "count": 37764,
     "player_id": "13533"
   },
   {
-    "count": 32898,
+    "count": 33090,
     "player_id": "13477"
   },
   {
-    "count": 31734,
+    "count": 31626,
     "player_id": "2505"
   },
   {
-    "count": 26235,
+    "count": 26262,
     "player_id": "10226"
   },
   {
-    "count": 24248,
+    "count": 24353,
     "player_id": "11834"
   },
   {
-    "count": 20880,
+    "count": 20790,
     "player_id": "11581"
   },
   {
-    "count": 20336,
+    "count": 20376,
     "player_id": "13424"
   },
   {
-    "count": 19472,
+    "count": 19376,
     "player_id": "13296"
   },
   {
-    "count": 17171,
+    "count": 16870,
     "player_id": "10218"
   },
   {
-    "count": 15957,
+    "count": 15975,
     "player_id": "13337"
   },
   {
-    "count": 15584,
+    "count": 15544,
     "player_id": "11610"
   },
   {
-    "count": 15102,
+    "count": 15075,
     "player_id": "5995"
   },
   {
-    "count": 13257,
-    "player_id": "8180"
-  },
-  {
-    "count": 13128,
+    "count": 13264,
     "player_id": "12487"
   },
   {
-    "count": 12691,
+    "count": 13176,
+    "player_id": "8180"
+  },
+  {
+    "count": 12754,
     "player_id": "2078"
   },
   {
-    "count": 12636,
+    "count": 12630,
     "player_id": "10213"
   },
   {
-    "count": 12018,
+    "count": 11868,
     "player_id": "JAX"
   },
   {
-    "count": 10440,
-    "player_id": "4017"
-  },
-  {
-    "count": 10320,
+    "count": 10445,
     "player_id": "7528"
   },
   {
-    "count": 9836,
+    "count": 10256,
+    "player_id": "4017"
+  },
+  {
+    "count": 10064,
     "player_id": "4098"
   },
   {
-    "count": 9716,
+    "count": 9744,
     "player_id": "8161"
   },
   {
-    "count": 9288,
+    "count": 9300,
     "player_id": "13413"
   },
   {
-    "count": 8992,
+    "count": 8952,
     "player_id": "11783"
   }
 ]
