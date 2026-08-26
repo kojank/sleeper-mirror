@@ -1,102 +1,102 @@
 [
   {
-    "count": 22384,
+    "count": 22920,
     "player_id": "9502"
   },
   {
-    "count": 19800,
+    "count": 19530,
     "player_id": "11589"
   },
   {
-    "count": 19512,
+    "count": 19305,
     "player_id": "13392"
   },
   {
-    "count": 13383,
+    "count": 13257,
     "player_id": "11435"
   },
   {
-    "count": 12845,
+    "count": 13060,
     "player_id": "12493"
   },
   {
-    "count": 12330,
+    "count": 12483,
     "player_id": "8125"
   },
   {
-    "count": 11808,
+    "count": 11856,
     "player_id": "3321"
   },
   {
-    "count": 11718,
+    "count": 11592,
     "player_id": "12540"
   },
   {
-    "count": 11696,
+    "count": 11584,
     "player_id": "4035"
   },
   {
-    "count": 11536,
-    "player_id": "10218"
-  },
-  {
-    "count": 11079,
+    "count": 11088,
     "player_id": "1339"
   },
   {
-    "count": 9909,
+    "count": 11081,
+    "player_id": "10218"
+  },
+  {
+    "count": 9765,
     "player_id": "8800"
   },
   {
-    "count": 9504,
+    "count": 9531,
     "player_id": "13330"
   },
   {
-    "count": 9198,
+    "count": 9108,
     "player_id": "9480"
   },
   {
-    "count": 9079,
-    "player_id": "12455"
-  },
-  {
-    "count": 9072,
+    "count": 8919,
     "player_id": "6783"
   },
   {
-    "count": 9009,
+    "count": 8865,
     "player_id": "6130"
   },
   {
-    "count": 8865,
+    "count": 8730,
     "player_id": "7090"
   },
   {
-    "count": 8478,
+    "count": 8729,
+    "player_id": "12455"
+  },
+  {
+    "count": 8280,
     "player_id": "11630"
   },
   {
-    "count": 8298,
+    "count": 8244,
     "player_id": "9506"
   },
   {
-    "count": 8176,
+    "count": 8208,
     "player_id": "8205"
   },
   {
-    "count": 7984,
-    "player_id": "13281"
-  },
-  {
-    "count": 7952,
+    "count": 7752,
     "player_id": "12524"
   },
   {
-    "count": 7785,
+    "count": 7668,
     "player_id": "2505"
   },
   {
-    "count": 7704,
+    "count": 7664,
+    "player_id": "13281"
+  },
+  {
+    "count": 7569,
     "player_id": "11571"
   }
 ]
