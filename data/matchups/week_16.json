@@ -98,14 +98,14 @@
   {
     "points": 0.0,
     "players": [
-      "11584"
+      "7588"
     ],
     "roster_id": 3,
     "custom_points": null,
     "matchup_id": 3,
     "starters": [
       "0",
-      "11584",
+      "7588",
       "0",
       "0",
       "0",
@@ -140,7 +140,7 @@
       0.0
     ],
     "players_points": {
-      "11584": 0.0
+      "7588": 0.0
     }
   },
   {
@@ -241,12 +241,14 @@
   },
   {
     "points": 0.0,
-    "players": [],
+    "players": [
+      "8183"
+    ],
     "roster_id": 6,
     "custom_points": null,
     "matchup_id": 2,
     "starters": [
-      "0",
+      "8183",
       "0",
       "0",
       "0",
@@ -281,7 +283,9 @@
       0.0,
       0.0
     ],
-    "players_points": {}
+    "players_points": {
+      "8183": 0.0
+    }
   },
   {
     "points": 0.0,
