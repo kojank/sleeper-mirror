@@ -441,9 +441,13 @@
   },
   {
     "co_owners": null,
-    "keepers": null,
+    "keepers": [
+      "7523"
+    ],
     "league_id": "1393656255356088320",
-    "metadata": null,
+    "metadata": {
+      "p_nick_7523": "Lovag csavo"
+    },
     "owner_id": "1395738716672135168",
     "player_map": null,
     "players": [
