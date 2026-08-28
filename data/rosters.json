@@ -221,7 +221,9 @@
   },
   {
     "co_owners": null,
-    "keepers": null,
+    "keepers": [
+      "8183"
+    ],
     "league_id": "1393656255356088320",
     "metadata": null,
     "owner_id": "959089197053239296",
@@ -481,7 +483,9 @@
   },
   {
     "co_owners": null,
-    "keepers": null,
+    "keepers": [
+      "11560"
+    ],
     "league_id": "1393656255356088320",
     "metadata": null,
     "owner_id": "1396873140545523712",
