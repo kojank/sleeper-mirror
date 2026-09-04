@@ -4,7 +4,7 @@
   "metadata": {
     "auto_continue": "on",
     "current_pick_no": "1",
-    "keeper_deadline": "0",
+    "keeper_deadline": "7",
     "on_the_clock_user_id": "1395459841849327616"
   },
   "settings": {
@@ -60,6 +60,11 @@
   },
   "avatar": null,
   "company_id": null,
+  "last_message_id": "1401287066314129408",
+  "sport": "nfl",
+  "shard": 945,
+  "season": "2026",
+  "season_type": "regular",
   "scoring_settings": {
     "sack": 1.0,
     "qb_hit": 0.0,
@@ -210,11 +215,6 @@
     "st_ff": 2.0,
     "idp_tkl_ast": 0.5
   },
-  "season": "2026",
-  "season_type": "regular",
-  "sport": "nfl",
-  "last_message_id": "1401287066314129408",
-  "shard": 945,
   "last_author_avatar": null,
   "last_author_display_name": "sys",
   "last_author_id": "166666666666666666",
@@ -228,6 +228,10 @@
   "league_id": "1393656255356088320",
   "previous_league_id": "0",
   "group_id": null,
+  "bracket_id": null,
+  "bracket_overrides_id": null,
+  "loser_bracket_id": null,
+  "loser_bracket_overrides_id": null,
   "roster_positions": [
     "QB",
     "RB",
@@ -254,9 +258,5 @@
     "BN",
     "BN"
   ],
-  "bracket_id": null,
-  "bracket_overrides_id": null,
-  "loser_bracket_id": null,
-  "loser_bracket_overrides_id": null,
   "total_rosters": 12
 }
