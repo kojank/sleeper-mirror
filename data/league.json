@@ -60,10 +60,9 @@
   },
   "avatar": null,
   "company_id": null,
-  "shard": 945,
-  "season": "2026",
-  "season_type": "regular",
   "sport": "nfl",
+  "season_type": "regular",
+  "season": "2026",
   "scoring_settings": {
     "sack": 1.0,
     "qb_hit": 0.0,
@@ -214,6 +213,7 @@
     "st_ff": 2.0,
     "idp_tkl_ast": 0.5
   },
+  "shard": 945,
   "last_message_id": "1402067044656009216",
   "last_author_avatar": "e0c562c4d0039eede8560da28337a802",
   "last_author_display_name": "ko9669ok",
@@ -227,11 +227,6 @@
   "draft_id": "1395149886264987648",
   "league_id": "1393656255356088320",
   "previous_league_id": "0",
-  "bracket_id": null,
-  "bracket_overrides_id": null,
-  "group_id": null,
-  "loser_bracket_id": null,
-  "loser_bracket_overrides_id": null,
   "roster_positions": [
     "QB",
     "RB",
@@ -258,5 +253,10 @@
     "BN",
     "BN"
   ],
+  "bracket_id": null,
+  "bracket_overrides_id": null,
+  "group_id": null,
+  "loser_bracket_id": null,
+  "loser_bracket_overrides_id": null,
   "total_rosters": 12
 }
