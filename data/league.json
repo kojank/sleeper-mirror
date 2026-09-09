@@ -213,6 +213,7 @@
     "idp_tkl_ast": 0.5
   },
   "last_message_id": "1403272269492445184",
+  "draft_id": "1395149886264987648",
   "last_author_avatar": null,
   "last_author_display_name": "sys",
   "last_author_id": "166666666666666666",
@@ -221,10 +222,9 @@
   "last_message_text_map": null,
   "last_message_time": 1788928689887,
   "last_pinned_message_id": null,
-  "last_read_id": null,
-  "draft_id": "1395149886264987648",
   "league_id": "1393656255356088320",
   "previous_league_id": "0",
+  "last_read_id": null,
   "roster_positions": [
     "QB",
     "RB",
