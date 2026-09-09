@@ -1,102 +1,102 @@
 [
   {
-    "count": 91984,
+    "count": 92904,
     "player_id": "10235"
   },
   {
-    "count": 56770,
+    "count": 59612,
     "player_id": "NE"
   },
   {
-    "count": 50100,
+    "count": 49932,
     "player_id": "6149"
   },
   {
-    "count": 47968,
+    "count": 47896,
     "player_id": "4035"
   },
   {
-    "count": 45485,
+    "count": 46290,
     "player_id": "12493"
   },
   {
-    "count": 45168,
+    "count": 45816,
     "player_id": "12457"
   },
   {
-    "count": 44541,
+    "count": 45657,
     "player_id": "9480"
   },
   {
-    "count": 42660,
+    "count": 43407,
     "player_id": "13330"
   },
   {
-    "count": 38502,
+    "count": 39174,
     "player_id": "12530"
   },
   {
-    "count": 36472,
-    "player_id": "3321"
-  },
-  {
-    "count": 35094,
+    "count": 38400,
     "player_id": "13413"
   },
   {
-    "count": 30213,
+    "count": 37568,
+    "player_id": "3321"
+  },
+  {
+    "count": 30645,
     "player_id": "8180"
   },
   {
-    "count": 30132,
+    "count": 30303,
     "player_id": "DET"
   },
   {
-    "count": 28584,
+    "count": 29025,
     "player_id": "9511"
   },
   {
-    "count": 27872,
+    "count": 28392,
     "player_id": "13276"
   },
   {
-    "count": 27704,
+    "count": 27968,
     "player_id": "11610"
   },
   {
-    "count": 27528,
+    "count": 27944,
     "player_id": "13269"
   },
   {
-    "count": 26604,
+    "count": 27387,
     "player_id": "8800"
   },
   {
-    "count": 26046,
-    "player_id": "6783"
-  },
-  {
-    "count": 25930,
+    "count": 26785,
     "player_id": "5850"
   },
   {
-    "count": 24876,
+    "count": 26415,
+    "player_id": "6783"
+  },
+  {
+    "count": 25659,
     "player_id": "10219"
   },
   {
-    "count": 24465,
-    "player_id": "9225"
-  },
-  {
-    "count": 24408,
+    "count": 25312,
     "player_id": "13281"
   },
   {
-    "count": 23805,
-    "player_id": "11435"
+    "count": 24976,
+    "player_id": "9225"
   },
   {
-    "count": 23364,
+    "count": 23988,
     "player_id": "8154"
+  },
+  {
+    "count": 23625,
+    "player_id": "11435"
   }
 ]
