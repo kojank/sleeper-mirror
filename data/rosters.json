@@ -133,7 +133,17 @@
     "co_owners": null,
     "keepers": null,
     "league_id": "1393656255356088320",
-    "metadata": null,
+    "metadata": {
+      "p_nick_11586": "Corum Laude",
+      "p_nick_11604": "Borz Lugasok",
+      "p_nick_4035": "Alvin Chamber",
+      "p_nick_4070": "Teljes\u00edtm\u00e9ny m\u00e9rt\u00e9kegys\u00e9ge",
+      "p_nick_4137": "Conner McGregor",
+      "p_nick_4983": "DJ Mocs\u00e1r",
+      "p_nick_5870": "Indiana Jones",
+      "p_nick_6786": "Silence of Lamb",
+      "p_nick_8289": "Aidan Ketrecfia"
+    },
     "owner_id": "1394757430289637376",
     "player_map": null,
     "players": [
