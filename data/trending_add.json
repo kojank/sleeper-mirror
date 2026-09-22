@@ -1,102 +1,102 @@
 [
   {
-    "count": 491130,
+    "count": 616257,
     "player_id": "11435"
   },
   {
-    "count": 476408,
+    "count": 474168,
     "player_id": "9228"
   },
   {
-    "count": 383088,
+    "count": 390376,
     "player_id": "12545"
   },
   {
-    "count": 347712,
+    "count": 370062,
     "player_id": "10213"
   },
   {
-    "count": 251552,
-    "player_id": "11625"
-  },
-  {
-    "count": 245457,
-    "player_id": "2505"
-  },
-  {
-    "count": 237330,
-    "player_id": "13285"
-  },
-  {
-    "count": 228375,
-    "player_id": "9225"
-  },
-  {
-    "count": 224847,
+    "count": 292140,
     "player_id": "12718"
   },
   {
-    "count": 174123,
-    "player_id": "11637"
+    "count": 273295,
+    "player_id": "13285"
   },
   {
-    "count": 159590,
-    "player_id": "13346"
+    "count": 272640,
+    "player_id": "11625"
   },
   {
-    "count": 158859,
+    "count": 243045,
+    "player_id": "2505"
+  },
+  {
+    "count": 222838,
+    "player_id": "9225"
+  },
+  {
+    "count": 219375,
     "player_id": "1339"
   },
   {
-    "count": 155900,
+    "count": 164030,
+    "player_id": "13346"
+  },
+  {
+    "count": 162354,
     "player_id": "13345"
   },
   {
-    "count": 143768,
-    "player_id": "6650"
+    "count": 161991,
+    "player_id": "11637"
   },
   {
-    "count": 139284,
+    "count": 156609,
     "player_id": "7090"
   },
   {
-    "count": 131499,
+    "count": 142832,
+    "player_id": "6650"
+  },
+  {
+    "count": 120015,
     "player_id": "6130"
   },
   {
-    "count": 124764,
+    "count": 114882,
     "player_id": "11256"
   },
   {
-    "count": 112496,
-    "player_id": "2307"
-  },
-  {
-    "count": 110864,
+    "count": 113936,
     "player_id": "1166"
   },
   {
-    "count": 96370,
+    "count": 107552,
+    "player_id": "2307"
+  },
+  {
+    "count": 99190,
     "player_id": "MIN"
   },
   {
-    "count": 77595,
+    "count": 89796,
     "player_id": "7562"
   },
   {
-    "count": 71010,
-    "player_id": "13337"
-  },
-  {
-    "count": 68775,
+    "count": 70002,
     "player_id": "9486"
   },
   {
-    "count": 67440,
-    "player_id": "3163"
+    "count": 66960,
+    "player_id": "13337"
   },
   {
-    "count": 66206,
+    "count": 66584,
     "player_id": "9758"
+  },
+  {
+    "count": 63750,
+    "player_id": "3163"
   }
 ]
