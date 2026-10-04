@@ -609,7 +609,9 @@
       "9484",
       "9997"
     ],
-    "reserve": null,
+    "reserve": [
+      "13286"
+    ],
     "roster_id": 8,
     "settings": {
       "fpts": 430,
