@@ -60,10 +60,6 @@
   },
   "avatar": "39317e9ca3dfe782336bffa8cc48bacf",
   "company_id": null,
-  "sport": "nfl",
-  "season_type": "regular",
-  "season": "2026",
-  "shard": 945,
   "scoring_settings": {
     "sack": 1.0,
     "qb_hit": 0.0,
@@ -214,6 +210,10 @@
     "st_ff": 2.0,
     "idp_tkl_ast": 0.5
   },
+  "season": "2026",
+  "season_type": "regular",
+  "shard": 945,
+  "sport": "nfl",
   "last_message_id": "1415167158157160448",
   "last_author_avatar": null,
   "last_author_display_name": "sys",
@@ -224,9 +224,9 @@
   "last_message_time": 1791764652341,
   "last_pinned_message_id": "1413873761274347520",
   "draft_id": "1395149886264987648",
-  "last_read_id": null,
   "league_id": "1393656255356088320",
   "previous_league_id": "0",
+  "last_read_id": null,
   "roster_positions": [
     "QB",
     "RB",
