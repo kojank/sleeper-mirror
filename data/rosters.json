@@ -151,7 +151,7 @@
       "12501",
       "8130",
       "8131",
-      "7525",
+      "2449",
       "12566",
       "7042",
       "5840",
@@ -497,8 +497,10 @@
     "keepers": null,
     "league_id": "1393656255356088320",
     "metadata": {
-      "record": "LLWWW",
-      "streak": "3W"
+      "allow_pn_inactive_starters": "on",
+      "allow_pn_player_injury_status": "on",
+      "allow_pn_scoring": "on",
+      "restrict_pn_scoring_starters_only": "on"
     },
     "owner_id": "1395459841849327616",
     "player_map": null,
