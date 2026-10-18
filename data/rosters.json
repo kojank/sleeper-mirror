@@ -244,11 +244,11 @@
       "4046",
       "7588",
       "11586",
-      "4983",
+      "6786",
       "11635",
       "5022",
       "11604",
-      "6786",
+      "9511",
       "4968",
       "12185",
       "10892",
@@ -505,8 +505,8 @@
     "metadata": {
       "allow_pn_inactive_starters": "on",
       "allow_pn_player_injury_status": "on",
-      "allow_pn_scoring": "on",
-      "restrict_pn_scoring_starters_only": "on"
+      "allow_pn_scoring": "off",
+      "restrict_pn_scoring_starters_only": "off"
     },
     "owner_id": "1395459841849327616",
     "player_map": null,
