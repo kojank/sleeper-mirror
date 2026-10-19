@@ -505,8 +505,8 @@
     "metadata": {
       "allow_pn_inactive_starters": "on",
       "allow_pn_player_injury_status": "on",
-      "allow_pn_scoring": "off",
-      "restrict_pn_scoring_starters_only": "off"
+      "allow_pn_scoring": "on",
+      "restrict_pn_scoring_starters_only": "on"
     },
     "owner_id": "1395459841849327616",
     "player_map": null,
