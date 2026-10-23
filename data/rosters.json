@@ -21,7 +21,6 @@
       "2747",
       "3294",
       "4081",
-      "4224",
       "4993",
       "5912",
       "6302",
@@ -35,6 +34,7 @@
       "8167",
       "8267",
       "8339",
+      "96",
       "9757"
     ],
     "reserve": [
@@ -54,11 +54,11 @@
       "total_moves": 0,
       "waiver_adjusted": 7,
       "waiver_budget_used": 0,
-      "waiver_position": 11,
+      "waiver_position": 12,
       "wins": 5
     },
     "starters": [
-      "3294",
+      "96",
       "7611",
       "6813",
       "8167",
@@ -631,7 +631,7 @@
       "total_moves": 0,
       "waiver_adjusted": 7,
       "waiver_budget_used": 0,
-      "waiver_position": 12,
+      "waiver_position": 11,
       "wins": 3
     },
     "starters": [
