@@ -1,102 +1,102 @@
 [
   {
-    "count": 145179,
+    "count": 145341,
     "player_id": "11581"
   },
   {
-    "count": 133536,
+    "count": 133152,
     "player_id": "8129"
   },
   {
-    "count": 77229,
-    "player_id": "11435"
-  },
-  {
-    "count": 75465,
+    "count": 80170,
     "player_id": "11439"
   },
   {
-    "count": 69582,
+    "count": 73452,
     "player_id": "8154"
   },
   {
-    "count": 68004,
-    "player_id": "9511"
-  },
-  {
-    "count": 67527,
+    "count": 69768,
     "player_id": "12718"
   },
   {
-    "count": 67384,
+    "count": 68166,
+    "player_id": "11435"
+  },
+  {
+    "count": 67770,
+    "player_id": "9511"
+  },
+  {
+    "count": 63048,
     "player_id": "10235"
   },
   {
-    "count": 63828,
+    "count": 62226,
     "player_id": "5927"
   },
   {
-    "count": 59643,
+    "count": 60426,
     "player_id": "9480"
   },
   {
-    "count": 53082,
+    "count": 54216,
     "player_id": "11637"
   },
   {
-    "count": 50994,
+    "count": 51066,
     "player_id": "2505"
   },
   {
-    "count": 50032,
+    "count": 51048,
     "player_id": "3321"
   },
   {
-    "count": 49966,
+    "count": 49560,
     "player_id": "13150"
   },
   {
-    "count": 47664,
+    "count": 49122,
     "player_id": "9482"
   },
   {
-    "count": 46017,
+    "count": 46971,
     "player_id": "13330"
   },
   {
-    "count": 43302,
-    "player_id": "JAX"
-  },
-  {
-    "count": 42416,
+    "count": 42896,
     "player_id": "1166"
   },
   {
-    "count": 40887,
+    "count": 41814,
+    "player_id": "JAX"
+  },
+  {
+    "count": 41535,
     "player_id": "8134"
   },
   {
-    "count": 40368,
+    "count": 41448,
     "player_id": "7567"
   },
   {
-    "count": 39474,
+    "count": 39942,
     "player_id": "3271"
   },
   {
-    "count": 39368,
+    "count": 39512,
     "player_id": "8121"
   },
   {
-    "count": 38340,
+    "count": 38943,
     "player_id": "12533"
   },
   {
-    "count": 35272,
+    "count": 36808,
     "player_id": "4035"
   },
   {
-    "count": 33579,
+    "count": 34605,
     "player_id": "5012"
   }
 ]
