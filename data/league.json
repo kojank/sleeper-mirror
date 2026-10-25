@@ -60,10 +60,10 @@
   },
   "avatar": "39317e9ca3dfe782336bffa8cc48bacf",
   "company_id": null,
-  "sport": "nfl",
-  "season_type": "regular",
-  "season": "2026",
   "shard": 945,
+  "season": "2026",
+  "season_type": "regular",
+  "sport": "nfl",
   "scoring_settings": {
     "sack": 1.0,
     "qb_hit": 0.0,
