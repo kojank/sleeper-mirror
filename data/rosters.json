@@ -140,7 +140,7 @@
       "total_moves": 0,
       "waiver_adjusted": 8,
       "waiver_budget_used": 0,
-      "waiver_position": 8,
+      "waiver_position": 7,
       "wins": 4
     },
     "starters": [
@@ -151,7 +151,7 @@
       "12501",
       "8130",
       "2449",
-      "6806",
+      "7525",
       "5840",
       "7042",
       "6183",
@@ -198,6 +198,7 @@
       "4118",
       "4137",
       "4454",
+      "4950",
       "4968",
       "4983",
       "5022",
@@ -210,7 +211,6 @@
       "8205",
       "8289",
       "8329",
-      "9502",
       "9511"
     ],
     "reserve": [
@@ -233,7 +233,7 @@
       "total_moves": 0,
       "waiver_adjusted": 8,
       "waiver_budget_used": 0,
-      "waiver_position": 9,
+      "waiver_position": 11,
       "wins": 5
     },
     "starters": [
@@ -311,7 +311,7 @@
       "total_moves": 0,
       "waiver_adjusted": 8,
       "waiver_budget_used": 0,
-      "waiver_position": 10,
+      "waiver_position": 8,
       "wins": 3
     },
     "starters": [
@@ -351,9 +351,9 @@
       "12512",
       "12518",
       "12536",
-      "12619",
       "13453",
       "1945",
+      "3233",
       "4866",
       "5844",
       "5871",
@@ -405,7 +405,7 @@
       "8265",
       "13453",
       "7648",
-      "7811",
+      "3233",
       "8392"
     ],
     "taxi": null
@@ -547,7 +547,7 @@
       "total_moves": 0,
       "waiver_adjusted": 8,
       "waiver_budget_used": 0,
-      "waiver_position": 11,
+      "waiver_position": 9,
       "wins": 4
     },
     "starters": [
@@ -625,7 +625,7 @@
       "total_moves": 0,
       "waiver_adjusted": 8,
       "waiver_budget_used": 0,
-      "waiver_position": 12,
+      "waiver_position": 10,
       "wins": 4
     },
     "starters": [
@@ -763,6 +763,7 @@
       "6125",
       "6214",
       "6333",
+      "6782",
       "6819",
       "6911",
       "7561",
@@ -789,7 +790,7 @@
       "total_moves": 0,
       "waiver_adjusted": 8,
       "waiver_budget_used": 0,
-      "waiver_position": 7,
+      "waiver_position": 12,
       "wins": 1
     },
     "starters": [
