@@ -60,10 +60,10 @@
   },
   "avatar": "39317e9ca3dfe782336bffa8cc48bacf",
   "company_id": null,
-  "shard": 945,
-  "season": "2026",
-  "season_type": "regular",
   "sport": "nfl",
+  "season_type": "regular",
+  "season": "2026",
+  "shard": 945,
   "scoring_settings": {
     "sack": 1.0,
     "qb_hit": 0.0,
@@ -230,6 +230,8 @@
   "bracket_id": null,
   "bracket_overrides_id": null,
   "group_id": null,
+  "loser_bracket_id": null,
+  "loser_bracket_overrides_id": null,
   "roster_positions": [
     "QB",
     "RB",
@@ -256,7 +258,5 @@
     "BN",
     "BN"
   ],
-  "loser_bracket_id": null,
-  "loser_bracket_overrides_id": null,
   "total_rosters": 12
 }
