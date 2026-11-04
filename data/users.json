@@ -76,7 +76,7 @@
     "avatar": "e0c562c4d0039eede8560da28337a802",
     "display_name": "ko9669ok",
     "is_bot": false,
-    "is_owner": true,
+    "is_owner": false,
     "league_id": "1393656255356088320",
     "metadata": {
       "allow_pn": "on",
@@ -144,7 +144,7 @@
     "avatar": "d9e878ea0273b1e9e1127b2bc4777c8f",
     "display_name": "gicam",
     "is_bot": false,
-    "is_owner": null,
+    "is_owner": false,
     "league_id": "1393656255356088320",
     "metadata": {
       "allow_pn": "on",
@@ -158,7 +158,7 @@
     "avatar": "7572250c2fb084c434fed0e82229e183",
     "display_name": "marcellnemeth",
     "is_bot": false,
-    "is_owner": null,
+    "is_owner": false,
     "league_id": "1393656255356088320",
     "metadata": {
       "allow_pn": "on",
