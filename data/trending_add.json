@@ -1,102 +1,102 @@
 [
   {
-    "count": 1903792,
-    "player_id": "9502"
-  },
-  {
-    "count": 1867458,
+    "count": 2657394,
     "player_id": "12491"
   },
   {
-    "count": 1470735,
+    "count": 2096824,
+    "player_id": "9502"
+  },
+  {
+    "count": 1818207,
     "player_id": "12718"
   },
   {
-    "count": 503145,
-    "player_id": "2505"
-  },
-  {
-    "count": 444726,
-    "player_id": "11579"
-  },
-  {
-    "count": 330232,
-    "player_id": "7562"
-  },
-  {
-    "count": 275409,
-    "player_id": "BAL"
-  },
-  {
-    "count": 264240,
-    "player_id": "12634"
-  },
-  {
-    "count": 226854,
-    "player_id": "8116"
-  },
-  {
-    "count": 223956,
-    "player_id": "5995"
-  },
-  {
-    "count": 186172,
-    "player_id": "9758"
-  },
-  {
-    "count": 176568,
-    "player_id": "12492"
-  },
-  {
-    "count": 175928,
-    "player_id": "13296"
-  },
-  {
-    "count": 174984,
+    "count": 683664,
     "player_id": "13269"
   },
   {
-    "count": 171045,
+    "count": 647703,
+    "player_id": "2505"
+  },
+  {
+    "count": 540465,
+    "player_id": "11579"
+  },
+  {
+    "count": 468328,
+    "player_id": "7562"
+  },
+  {
+    "count": 374652,
+    "player_id": "BAL"
+  },
+  {
+    "count": 306630,
+    "player_id": "8116"
+  },
+  {
+    "count": 304508,
+    "player_id": "12494"
+  },
+  {
+    "count": 279344,
+    "player_id": "12634"
+  },
+  {
+    "count": 273168,
+    "player_id": "5995"
+  },
+  {
+    "count": 238104,
     "player_id": "3271"
   },
   {
-    "count": 161616,
-    "player_id": "JAX"
+    "count": 213787,
+    "player_id": "9758"
   },
   {
-    "count": 151080,
-    "player_id": "GB"
+    "count": 197688,
+    "player_id": "12492"
   },
   {
-    "count": 145848,
-    "player_id": "11539"
-  },
-  {
-    "count": 145256,
-    "player_id": "13424"
-  },
-  {
-    "count": 134976,
-    "player_id": "3286"
-  },
-  {
-    "count": 128600,
-    "player_id": "12545"
-  },
-  {
-    "count": 128368,
+    "count": 196536,
     "player_id": "96"
   },
   {
-    "count": 127384,
-    "player_id": "13281"
+    "count": 193904,
+    "player_id": "11539"
   },
   {
-    "count": 115760,
+    "count": 193530,
+    "player_id": "JAX"
+  },
+  {
+    "count": 190854,
+    "player_id": "3286"
+  },
+  {
+    "count": 190168,
+    "player_id": "13296"
+  },
+  {
+    "count": 180254,
+    "player_id": "GB"
+  },
+  {
+    "count": 171785,
+    "player_id": "9500"
+  },
+  {
+    "count": 163792,
+    "player_id": "12545"
+  },
+  {
+    "count": 151356,
     "player_id": "9228"
   },
   {
-    "count": 104751,
-    "player_id": "12773"
+    "count": 142184,
+    "player_id": "13281"
   }
 ]

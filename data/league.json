@@ -60,6 +60,8 @@
   },
   "avatar": "39317e9ca3dfe782336bffa8cc48bacf",
   "company_id": null,
+  "last_message_id": "1425933089254682624",
+  "sport": "nfl",
   "scoring_settings": {
     "sack": 1.0,
     "qb_hit": 0.0,
@@ -213,8 +215,6 @@
   "season": "2026",
   "season_type": "regular",
   "shard": 945,
-  "sport": "nfl",
-  "last_message_id": "1425933089254682624",
   "last_author_avatar": null,
   "last_author_display_name": "sys",
   "last_author_id": "166666666666666666",
