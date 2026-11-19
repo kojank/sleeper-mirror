@@ -220,7 +220,7 @@
     "roster_id": 3,
     "settings": {
       "fpts": 1713,
-      "fpts_against": 1584,
+      "fpts_against": 1585,
       "fpts_against_decimal": 72,
       "fpts_decimal": 84,
       "losses": 3,
@@ -780,12 +780,12 @@
     ],
     "roster_id": 10,
     "settings": {
-      "fpts": 1427,
+      "fpts": 1428,
       "fpts_against": 1669,
       "fpts_against_decimal": 55,
       "fpts_decimal": 16,
       "losses": 8,
-      "ppts": 1651,
+      "ppts": 1652,
       "ppts_decimal": 94,
       "ties": 0,
       "total_moves": 0,
