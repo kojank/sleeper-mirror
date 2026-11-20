@@ -185,6 +185,7 @@
       "11583",
       "11586",
       "11604",
+      "11729",
       "11739",
       "12185",
       "12588",
@@ -202,7 +203,6 @@
       "6806",
       "7016",
       "7588",
-      "8195",
       "8205",
       "8267",
       "8329",
@@ -230,7 +230,7 @@
       "total_moves": 0,
       "waiver_adjusted": 11,
       "waiver_budget_used": 0,
-      "waiver_position": 9,
+      "waiver_position": 12,
       "wins": 7
     },
     "starters": [
@@ -379,7 +379,7 @@
       "total_moves": 0,
       "waiver_adjusted": 11,
       "waiver_budget_used": 0,
-      "waiver_position": 10,
+      "waiver_position": 9,
       "wins": 9
     },
     "starters": [
@@ -622,7 +622,7 @@
       "total_moves": 0,
       "waiver_adjusted": 11,
       "waiver_budget_used": 0,
-      "waiver_position": 11,
+      "waiver_position": 10,
       "wins": 4
     },
     "starters": [
@@ -711,7 +711,7 @@
       "total_moves": 0,
       "waiver_adjusted": 11,
       "waiver_budget_used": 0,
-      "waiver_position": 12,
+      "waiver_position": 11,
       "wins": 6
     },
     "starters": [
